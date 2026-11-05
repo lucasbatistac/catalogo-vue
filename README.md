@@ -1,6 +1,6 @@
 # Explorando o Vue.js: componentes reativos
 
-Aplicação de catálogo criada para o trabalho do módulo C.15. Cada ProductCard recebe nome, preço, imagem e categoria por props e emite o evento adicionar para o componente pai, que atualiza o contador. A busca usa v-model e a propriedade computada filtrados.
+Aplicação de catálogo criada para o trabalho do módulo  Frameworks para Web Front-End. Cada ProductCard recebe nome, preço, imagem e categoria por props e emite o evento adicionar para o componente pai, que atualiza o contador. A busca usa v-model e a propriedade computada filtrados.
 
 ## Como executar
 
