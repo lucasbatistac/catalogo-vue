@@ -4,8 +4,7 @@ Aplicação de catálogo criada para o trabalho do módulo  Frameworks para Web 
 
 ## Como executar
 
-Abra index.html em um navegador com acesso à internet, necessário para carregar Vue 3 pela CDN. Para servir localmente, execute python3 -m http.server 8000 nesta pasta e acesse http://localhost:8000.
-
+Abra index.html em um navegador com acesso à internet, necessário para carregar Vue 3 pela CDN. 
 ## Como testar
 
 1. Clique em Adicionar e confira o contador no topo; clique novamente para verificar a nova contagem.
